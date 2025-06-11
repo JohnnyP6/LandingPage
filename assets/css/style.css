@@ -28,7 +28,7 @@
 body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-image: url(/assets/imgs/background.jpg);
+  background-image: url(assets/imgs/background.jpg);
 }
 
 .products {
